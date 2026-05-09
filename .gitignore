@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local training noise
+*.cache
+*.log
+
+# Large raw images are intentionally excluded from this repo
+dataset/weed_pose/images/
+dataset/images/
+dataset/json/
+

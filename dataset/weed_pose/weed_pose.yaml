@@ -1,0 +1,9 @@
+path: dataset/weed_pose
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: weed
+
+kpt_shape: [1, 3]

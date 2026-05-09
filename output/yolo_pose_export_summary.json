@@ -1,0 +1,16 @@
+{
+  "total_files": 1540,
+  "files_with_labels": 1208,
+  "files_without_labels": 332,
+  "total_exported_instances": 6904,
+  "skipped_unmatched": 602,
+  "skipped_conflict_unmatched": 89,
+  "class_names": [
+    "weed"
+  ],
+  "kpt_shape": [
+    1,
+    3
+  ],
+  "label_out_dir": "output\\yolo_pose_labels"
+}

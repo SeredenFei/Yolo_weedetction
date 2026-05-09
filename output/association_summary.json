@@ -1,0 +1,24 @@
+{
+  "total_files": 1540,
+  "total_boxes": 7595,
+  "total_points": 14040,
+  "total_matched": 6904,
+  "total_unmatched_boxes": 691,
+  "total_unused_points": 7136,
+  "total_multi_point_boxes": 815,
+  "total_expanded_matches": 11,
+  "total_conflict_unmatched": 89,
+  "match_rate": 0.9090190915075708,
+  "box_labels": [
+    "broadleaf_weed",
+    "grass_weed",
+    "sedge_weed"
+  ],
+  "point_label": "gp",
+  "expand_ratio": 0.1,
+  "image_dir": "dataset\\images",
+  "json_dir": "dataset\\json",
+  "warnings": [
+    "image directory 'dataset\\image' not found, fallback to 'dataset\\images'"
+  ]
+}

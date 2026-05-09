@@ -1,0 +1,9 @@
+{
+  "total_labeled_images": 1208,
+  "train_count": 966,
+  "val_count": 120,
+  "test_count": 122,
+  "skipped_empty_labels": 332,
+  "skipped_missing_images": 0,
+  "out_dir": "dataset\\weed_pose"
+}
